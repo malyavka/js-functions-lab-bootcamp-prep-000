@@ -1,2 +1,2 @@
 // write your code below!
-const happyHolidays => return 
+const happyHolidays => return `"Happy holidays!"`;
